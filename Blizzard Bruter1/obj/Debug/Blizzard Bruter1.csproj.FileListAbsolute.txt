@@ -1,0 +1,22 @@
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\MainWindow.g.cs
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\App.g.cs
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Blizzard Bruter1_MarkupCompile.cache
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Blizzard Bruter1_MarkupCompile.lref
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\bin\Debug\Blizzard Bruter1.exe.config
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\bin\Debug\Blizzard Bruter1.exe
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\bin\Debug\Blizzard Bruter1.pdb
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\MainWindow.baml
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Blizzard Bruter1.g.resources
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Blizzard_Bruter1.Properties.Resources.resources
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Blizzard Bruter1.csproj.GenerateResource.cache
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Blizzard Bruter1.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Blizzard Bruter1.exe
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Blizzard Bruter1.pdb
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\bin\Debug\Leaf.xNet.dll
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\bin\Debug\Leaf.xNet.xml
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Window1.g.cs
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Window1.baml
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Blizzard Bruter1.csproj.CopyComplete
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Window2.g.cs
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\obj\Debug\Window2.baml
+C:\Users\mahdi\source\repos\Blizzard Bruter1\Blizzard Bruter1\bin\Debug\ThreadGun.dll
